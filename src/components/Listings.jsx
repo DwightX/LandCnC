@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Stays from '../stays.json'
 import styled from 'styled-components';
 
